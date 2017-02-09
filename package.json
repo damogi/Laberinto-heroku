@@ -1,0 +1,15 @@
+{
+  "name": "mazegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "dmontes",
+  "license": "ISC",
+  "dependencies": {
+    "generate-maze-by-clustering": "0.0.4"
+  }
+}
